@@ -95,9 +95,6 @@
 		<source-file src="src/android/ImageLoadTask.java" target-dir="src/com/hutchind/cordova/plugins/vitamio" />
 		<source-file src="src/android/ImageLoadTaskListener.java" target-dir="src/com/hutchind/cordova/plugins/vitamio" />
 		<source-file src="src/android/libs/vitamio.jar" target-dir="libs" />
-		<source-file src="src/android/libs/armeabi/libvinit.so" target-dir="libs/armeabi" />
-		<source-file src="src/android/libs/armeabi-v7a/libvinit.so" target-dir="libs/armeabi-v7a" />
-		<source-file src="src/android/libs/x86/libvinit.so" target-dir="libs/x86" />
 		<source-file src="src/android/res/raw/libarm.so" target-dir="res/raw" />
 		<source-file src="src/android/res/drawable/mediacontroller_pause.png" target-dir="res/drawable" />
 		<source-file src="src/android/res/drawable/mediacontroller_play.png" target-dir="res/drawable" />
